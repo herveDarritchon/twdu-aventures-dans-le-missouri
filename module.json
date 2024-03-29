@@ -1,0 +1,30 @@
+{
+  "id": "twdu-aventures-dans-le-missouri",
+  "title": "TWDU - Aventures dans le Missouri",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "authors": [
+    {
+      "name": "Hervé Darritchon",
+      "email": "herve.darritchon@gmail.com",
+      "url": "https://outme.hervedarritchon.fr",
+      "discord": "hervedarritchon#7262"
+    }
+  ],
+  "packs": [
+    {
+      "name": "twdu-aventures-dans-le-missouri",
+      "label": "TWDU Aventures dans le Missouri",
+      "path": "packs/twdu-aventures-dans-le-missouri",
+      "type": "Adventure",
+      "system": "twdu",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    }
+  ]
+}
