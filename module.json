@@ -26,5 +26,13 @@
         "ASSISTANT": "OWNER"
       }
     }
-  ]
+  ],
+  "relationships": {
+    "systems": [
+      {
+        "id": "twdu",
+        "type": "system"
+      }
+    ]
+  }
 }
