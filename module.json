@@ -6,6 +6,8 @@
     "minimum": "11",
     "verified": "11"
   },
+  "manifest": "#{MANIFEST}#",
+  "download": "#{DOWNLOAD}#",
   "authors": [
     {
       "name": "Hervé Darritchon",
