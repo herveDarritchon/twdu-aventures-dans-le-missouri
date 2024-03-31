@@ -1,8 +1,15 @@
-2024/03/31-09:39:30.278031 309bc4000 Recovering log #132
-2024/03/31-09:39:30.278851 309bc4000 Delete type=0 #132
-2024/03/31-09:39:30.278947 309bc4000 Delete type=3 #130
-2024/03/31-18:40:39.484779 3042bf000 Level-0 table #137: started
-2024/03/31-18:40:39.484817 3042bf000 Level-0 table #137: 0 bytes OK
-2024/03/31-18:40:39.485037 3042bf000 Delete type=0 #135
-2024/03/31-18:40:39.487800 3042bf000 Manual compaction at level-0 from '!adventures!ipvIZUEiXQ1AAZyk' @ 72057594037927935 : 1 .. '!adventures!ipvIZUEiXQ1AAZyk' @ 0 : 0; will stop at (end)
-2024/03/31-18:40:39.500831 3042bf000 Manual compaction at level-1 from '!adventures!ipvIZUEiXQ1AAZyk' @ 72057594037927935 : 1 .. '!adventures!ipvIZUEiXQ1AAZyk' @ 0 : 0; will stop at (end)
+2024/03/31-19:05:40.586613 310d0a000 Recovering log #136
+2024/03/31-19:05:40.587567 310d0a000 Delete type=3 #134
+2024/03/31-19:05:40.587703 310d0a000 Delete type=0 #136
+2024/03/31-22:42:08.108710 30a407000 Level-0 table #141: started
+2024/03/31-22:42:08.129360 30a407000 Level-0 table #141: 474628 bytes OK
+2024/03/31-22:42:08.129745 30a407000 Delete type=0 #139
+2024/03/31-22:42:08.131627 30a407000 Manual compaction at level-0 from '!adventures!ipvIZUEiXQ1AAZyk' @ 72057594037927935 : 1 .. '!adventures!ipvIZUEiXQ1AAZyk' @ 0 : 0; will stop at (end)
+2024/03/31-22:42:08.131669 30a407000 Manual compaction at level-1 from '!adventures!ipvIZUEiXQ1AAZyk' @ 72057594037927935 : 1 .. '!adventures!ipvIZUEiXQ1AAZyk' @ 0 : 0; will stop at '!adventures!ipvIZUEiXQ1AAZyk' @ 17 : 1
+2024/03/31-22:42:08.131675 30a407000 Compacting 1@1 + 1@2 files
+2024/03/31-22:42:08.139838 30a407000 Generated table #142@1: 1 keys, 163529 bytes
+2024/03/31-22:42:08.139879 30a407000 Compacted 1@1 + 1@2 files => 163529 bytes
+2024/03/31-22:42:08.140022 30a407000 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/03/31-22:42:08.140180 30a407000 Delete type=2 #129
+2024/03/31-22:42:08.141039 30a407000 Delete type=2 #141
+2024/03/31-22:42:08.141300 30a407000 Manual compaction at level-1 from '!adventures!ipvIZUEiXQ1AAZyk' @ 17 : 1 .. '!adventures!ipvIZUEiXQ1AAZyk' @ 0 : 0; will stop at (end)
